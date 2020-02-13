@@ -1,2 +1,0 @@
-# bot-python
-bot python
